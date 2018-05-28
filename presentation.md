@@ -95,12 +95,14 @@ xset r rate 400 50
 	[ ] U - undo all changes on line (added to top of changes-stack, u to undo "undo all")
 
 ## Random tips:
+```
 [ ] Search / %
 [ ] Quick search * %
 [ ] toggle case ~
 [ ] Run terminal commands
 [ ] gx - Open url in browser http://www.clave.no 
 [ ] Insert mode: ^kOK ✓, ^kXX ✗, :dig[tab]
+```
 
 ## Resources:
 http://www.viemu.com/vi-vim-cheat-sheet.gif
